@@ -17,9 +17,9 @@ Launch: TBD
 **_On-Going_**
   
   ToDo 
-    -[] Test de impresión inicial en PA12
-    -[] Test de impresión para FDM
-    -[] Release
+    - [] Test de impresión inicial en PA12
+    - [] Test de impresión para FDM
+    - [] Release
     
 ## Sources
 ## Other information
