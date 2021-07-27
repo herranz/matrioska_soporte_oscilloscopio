@@ -16,7 +16,7 @@ Launch: TBD
 ## Project status
 **_On-Going_**
   
-##### ToDo 
+### ToDo 
 - [ ] Test de impresión inicial en PA12
 - [ ] Test de impresión para FDM
 - [ ] Release
