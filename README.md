@@ -1,5 +1,5 @@
 
-#*Title: Soporte oscilloscopio para matrioska*
+# *Title: Soporte oscilloscopio para matrioska*
 Introduction/project_aim: Proyecto de diseño 3D para crear un soporte para sostener una sonda de oscilloscopio a un matrioska usando un magic arm de fotografia
 Technologies: Impresora 3D, CAD(SolidWorks)
 Launch: TBD
