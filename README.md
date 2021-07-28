@@ -8,13 +8,14 @@ Launch: TBD
   TBD
 
 ## Illustrations
-<img src="https://raw.githubusercontent.com/herranz/matrioska_soporte_oscilloscopio/main/images/render_fijacion.JPG" width="150" height="100" border="10"/>
-<img src="https://raw.githubusercontent.com/herranz/matrioska_soporte_oscilloscopio/main/images/render_pinza.JPG" width="150" height="100" border="10"/>
+<img src="/main/images/render_fijacion.JPG" width="150" height="100" border="10"/>
+<img src="main/images/render_pinza.JPG" width="150" height="100" border="10"/>
 
 ![Soporte](/herranz/matrioska_soporte_oscilloscopio/main/images/render_fijacion.JPG?raw=true "Soporte")
 ![Pinza](/herranz/matrioska_soporte_oscilloscopio/main/images/render_pinza.JPG?raw=true "Soporte")
 
-[[/images/render_fijacion.jpg|fijación]]
+[/images/render_fijacion.jpg|fijación]
+
 
 
 ## Scope of functionalities
