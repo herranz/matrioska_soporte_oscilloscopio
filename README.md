@@ -8,8 +8,8 @@ Launch: TBD
   TBD
 
 ## Illustrations
-<img src="/images/render_fijacion.JPG" width="250" height="200" border="10"/>
-<img src="/images/render_pinza.JPG" width="250" height="200" border="10"/>
+<img src="/images/render_fijacion.JPG" width="250" height="150" border="10"/>
+<img src="/images/render_pinza.JPG" width="250" height="150" border="10"/>
 
 
 ## Scope of functionalities
