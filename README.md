@@ -1,5 +1,5 @@
 
-# **Soporte oscilloscopio para matrioska**
+# **Soporte oscilloscopio**
 Introduction/project_aim: Proyecto de diseño 3D para crear un soporte para sostener una sonda de oscilloscopio a una plancha de aluminio mecanizada usando un magic arm de fotografia. Clon de Keysight N2787A https://www.keysight.com/gb/en/product/N2787A/3d-probe-positioner.html
 Technologies: Impresora 3D, CAD(SolidWorks)
 Launch: TBD
