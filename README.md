@@ -14,7 +14,7 @@ Launch: TBD
 
 ## Scope of functionalities
 ## Examples of use
-<img src="/images/soporte_sonda.PNG" width="250" height="150" border="10"/>
+<img src="/images/soporte_sonda.png" width="250" height="150" border="10"/>
 
 ## Project status
 **_On-Going_**
