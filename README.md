@@ -14,11 +14,14 @@ Launch: TBD
 
 ## Scope of functionalities
 ## Examples of use
+<img src="/images/soporte_sonda.PNG" width="250" height="150" border="10"/>
+
 ## Project status
 **_On-Going_**
   
 ### ToDo 
-- [ ] Test de impresión inicial en PA12
+- [X] Test de impresión inicial en PA12
+  - Añadir un soporte en la parte trasera de la pinza para permitir a la rotula movimiento. 
 - [ ] Test de impresión para FDM
 - [ ] Release
     
